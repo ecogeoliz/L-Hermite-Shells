@@ -1,0 +1,36 @@
+body{
+  background-image:url(IMG_2798.JPG);
+  background-size:contain;
+}
+h1{
+  background-color: Plum;
+  font-family:times;
+  text-align: center;
+  color:white;
+}
+img{
+  width:30%;
+  height:40%;
+  padding:15px;
+}
+ul{
+  background-color: LavenderBlush;
+  font-size: 25px;
+}
+.menu{
+  background-color: RebeccaPurple;
+  padding:08px;
+  text-align: center;
+  width:99%
+}
+.menu li{
+  display:inline-block;
+  list-style-type: none;
+  padding: 0px 10px;
+}
+li a{
+  text-decoration: none;
+  font-size: 20px;
+  font-family: georgia;
+  color:white;
+}
